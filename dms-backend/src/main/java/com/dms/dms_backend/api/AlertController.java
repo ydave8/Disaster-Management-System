@@ -6,7 +6,7 @@ package com.dms.dms_backend.api;
 
 /**
  *
- * @author shivam
+ * @author Yatharth
  */
 public class AlertController {
     
