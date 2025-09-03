@@ -6,7 +6,8 @@ package com.dms.dms_backend.api.dto;
 
 /**
  *
- * @author shivam
+ * @author Ramesh
+ 
  */
 public class CreateAlertDTO {
     
